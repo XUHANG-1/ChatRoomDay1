@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\test2\\vstext\\ChatRoomDay1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8592A66B-ACEB-4943-A4EE-E3E174A7122D}|ChatRoomDay1.vcxproj|D:\\test2\\vstext\\ChatRoomDay1\\ChatRoomDay1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8592A66B-ACEB-4943-A4EE-E3E174A7122D}|ChatRoomDay1.vcxproj|solutionrelative:ChatRoomDay1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatRoomDay1.cpp",
+              "DocumentMoniker": "D:\\test2\\vstext\\ChatRoomDay1\\ChatRoomDay1.cpp",
+              "RelativeDocumentMoniker": "ChatRoomDay1.cpp",
+              "ToolTip": "D:\\test2\\vstext\\ChatRoomDay1\\ChatRoomDay1.cpp",
+              "RelativeToolTip": "ChatRoomDay1.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-12T13:05:28.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
