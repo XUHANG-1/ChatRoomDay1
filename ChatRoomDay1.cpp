@@ -6,12 +6,25 @@
 
 using namespace std;
 
+void printChat(const string name)
+{
+    string msg;
+    while (true)
+    {
+        cout << "[" << name << "] 请输入消息（输入quit退出）：";
+        getline(cin, msg);
+        if (msg == "quit")break;
+    }
+    cout << ">> " << name << ": " << "离线";
+}
+
 int main()
 {
     string name;
     std::cout << "请输入你的昵称: \n";
     getline(cin, name);
-
+    printChat(name);
+#if 0
     string msg;
     while (true)
     {
@@ -21,9 +34,8 @@ int main()
         if (msg == "quit")
             break;
         cout << ">>" << name << ":" << msg << endl;
-    }
-
-    cout << "聊天结束";
+    cout << "聊天结束";                                                                                                                                         
+#endif
     return 0;
 }
 
